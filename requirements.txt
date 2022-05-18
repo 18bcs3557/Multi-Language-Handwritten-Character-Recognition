@@ -5,7 +5,8 @@ scikit-image==0.16.2
 scikit-learn==0.23.2
 jupyter==1.0.0
 python-mnist==0.7
-pywin32==
-PIL==
+pywin32==303
+PIL==9.0.1
+h5py==2.10.0
 tensorflow-gpu==1.13.1
 keras-gpu==2.3.1
